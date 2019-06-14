@@ -1,0 +1,10 @@
+.important {
+    color: blueviolet;
+    font-weight: 900;
+    font-family: Arial;
+}
+
+.done {
+    color: red;
+    text-decoration: line-through;
+}
